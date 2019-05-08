@@ -382,7 +382,7 @@ div>input.form-control {
     font-size: 14px;
     width: 100px;
     font-weight: bold;
-    line-height: 18px;
+    line-height: 16px;
     padding: 6px 16px;
     position: relative;
     text-align: center;
@@ -391,7 +391,7 @@ div>input.form-control {
     color: #1da1f2;
     background-color: transparent;  
     margin-bottom: 10px;
-    margin-top: 5px; 
+    margin-top: 1px; 
 }
 
 .take-a-look-btn {
