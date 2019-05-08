@@ -1,0 +1,585 @@
+/* NEUTRA FACE A */
+@font-face {
+    font-family: 'Neutra Text';
+    src: url('../../fonts/NeutraFaceA/NeutraText-Demi.eot');
+    src: url('../../fonts/NeutraFaceA/NeutraText-Demi.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NeutraFaceA/NeutraText-Demi.woff2') format('woff2'),
+        url('../../fonts/NeutraFaceA/NeutraText-Demi.woff') format('woff'),
+        url('../../fonts/NeutraFaceA/NeutraText-Demi.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neutra Display';
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Bold.eot');
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Bold.woff2') format('woff2'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Bold.woff') format('woff'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neutra Display';
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Thin.eot');
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Thin.woff2') format('woff2'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Thin.woff') format('woff'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neutra Text Light Alt';
+    src: url('../../fonts/NeutraFaceA/NeutraText-LightAlt.eot');
+    src: url('../../fonts/NeutraFaceA/NeutraText-LightAlt.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NeutraFaceA/NeutraText-LightAlt.woff2') format('woff2'),
+        url('../../fonts/NeutraFaceA/NeutraText-LightAlt.woff') format('woff'),
+        url('../../fonts/NeutraFaceA/NeutraText-LightAlt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neutra Display';
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Medium.eot');
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Medium.woff2') format('woff2'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Medium.woff') format('woff'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neutra Display';
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Light.eot');
+    src: url('../../fonts/NeutraFaceA/NeutraDisp-Light.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Light.woff2') format('woff2'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Light.woff') format('woff'),
+        url('../../fonts/NeutraFaceA/NeutraDisp-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+/* GEORGIA FACE FONT*/
+
+@font-face {
+    font-family:'Georgia';
+    src: url('../fonts/Georgia/Georgia.ttf');
+    
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Bold.eot');
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Bold.woff2') format('woff2'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Bold.woff') format('woff'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Regular.eot');
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Regular.woff2') format('woff2'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Regular.woff') format('woff'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-SemiboldItalic.eot');
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-SemiboldItalic.woff2') format('woff2'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-SemiboldItalic.woff') format('woff'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Semibold.eot');
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Semibold.woff2') format('woff2'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Semibold.woff') format('woff'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Italic.eot');
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Italic.woff2') format('woff2'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Italic.woff') format('woff'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-BoldItalic.eot');
+    src: url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-BoldItalic.woff2') format('woff2'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-BoldItalic.woff') format('woff'),
+        url('../../fonts/AdobeCaslon-Hinted/hinted-ACaslonPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+/* IMPERIAL FONT FACE */
+
+@font-face {
+    font-family: 'nyt_imperialbold_italic';
+    src: url('../../fonts/Imperial/nyt_imperial_bold_italic-webfont.woff2') format('woff2'),
+         url('../../fonts/Imperial/nyt_imperial_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'nyt_imperialbold';
+    src: url('../../fonts/Imperial/nyt_imperial_bold-webfont.woff2') format('woff2'),
+         url('../../fonts/Imperial/nyt_imperial_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nyt_imperialitalic';
+    src: url('../../fonts/Imperial/nyt_imperial_italic-webfont.woff2') format('woff2'),
+         url('../../fonts/Imperial/nyt_imperial_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nyt_imperialregular';
+    src: url('../../fonts/Imperial/nyt_imperial_regular-webfont.woff2') format('woff2'),
+         url('../../fonts/Imperial/nyt_imperial_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* NEW YORK TYPE FONT FACE*/
+
+@font-face {
+    font-family: 'NewyorkertypeBold';
+    src: url('../../fonts/NewYorkType/Newyorkertype.eot');
+    src: url('../../fonts/NewYorkType/NewyorkertypeBold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NewYorkType/NewyorkertypeBold.woff2') format('woff2'),
+        url('../../fonts/NewYorkType/NewyorkertypeBold.woff') format('woff'),
+        url('../../fonts/NewYorkType/NewyorkertypeBold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Newyorkertype';
+    src: url('../../fonts/NewYorkType/Newyorkertype.eot');
+    src: url('../../fonts/NewYorkType/Newyorkertype.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/NewYorkType/Newyorkertype.woff2') format('woff2'),
+        url('../../fonts/NewYorkType/Newyorkertype.woff') format('woff'),
+        url('../../fonts/NewYorkType/Newyorkertype.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+/*font-family: 'Lato', sans-serif;*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+/*font-family: 'Gloria Hallelujah', cursive;*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/*font-family: 'Roboto', sans-serif;*/
+
+@import url('https://fonts.googleapis.com/css?family=Handlee|Neucha|Patrick+Hand');
+/*font-family: 'Handlee', cursive;*/
+/*font-family: 'Patrick Hand', cursive;*/
+/*font-family: 'Neucha', cursive;*/
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+/*font-family: 'Titillium Web', sans-serif;*/
+
+
+
+/*Links to local fonts*/
+@font-face {
+	font-family: Lucida;
+	src: url(../../fonts/lucida-grande/LucidaGrande.ttf);
+}
+
+@font-face {
+	font-family: Helveticaneue;
+	src: url(../../fonts/helveticanue/HelveticaNeue.ttf);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    /* -webkit-font-smoothing: antialiased; */
+    background: #e6ecf0;
+    font-size: 14px;
+    color: #14171a;
+    overflow-y: scroll;
+    line-height: 20px;
+}
+
+.cont {
+    backface-visibility: hidden;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.navbar {
+    height: 48px; 
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,0.25);
+    position: relative;
+    width: 100%;
+}
+
+a .passive {
+    color: #555 !important;
+}
+
+.container-padded {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 1360px;
+    padding-right: 15px;
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+    /* border-bottom: 1px solid rgba(0,0,0,0.25); */
+}
+
+@media (min-width: 1190px){
+    .container-padded {
+        min-width: 590px;
+    }
+}
+
+.home-active {
+    border-bottom: 2px solid #1da1f2;
+}
+
+.form-search {
+    float: left;
+    height: 33px;
+    /* margin: 7px 15px 0 0; */
+    font-size: 12px;
+    width: 221px;
+}
+
+div>input.form-control {
+    background-color: #f5f8fa;
+    border-radius: 21px;
+    border: 1px solid #e6ecf0;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #14171a;
+    display: block;
+    font-size: 12px;
+    height: 32px;
+    border-right: 0px none;
+    line-height: 16px;
+    padding: 8px 32px 8px 12px;
+    transition: all .2s ease-in-out;
+    width: 100%;
+}
+
+.input-group-text {
+    border-radius: 21px;
+    border-left: 0px none;
+}
+
+.search-icon {
+    cursor: pointer;
+    display: block;
+    height: 26px;
+    position: absolute;
+    right: 3px;
+    top: 6px;
+    width: 26px;
+}
+
+.profile-img {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    padding: 2px;
+    vertical-align: middle;
+    background-size: cover;
+}
+
+.tweet-btn {
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    border: 1px solid #1da1f2;
+    color: #fff;
+    background-color: #1da1f2;   
+}
+
+.tweet-follow-btn {
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 14px;
+    width: 100px;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 6px 16px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    border: 1px solid #1da1f2;
+    color: #1da1f2;
+    background-color: transparent;  
+    margin-bottom: 10px;
+    margin-top: 5px; 
+}
+
+.take-a-look-btn {
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 14px;
+    width: 90%;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    border: 1px solid #1da1f2;
+    color: #fff;
+    background-color: #1da1f2;   
+}
+
+.timeline-tweet-box {
+    background-color: #E8F5FD;
+    margin-top: 10px;
+}
+
+.tweet-box {
+    width: 500px;
+    height: 32px;
+    border-radius: 8px;
+    border: 1px solid #e6ecf0;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 14px;
+    height: 45px;
+    line-height: 16px;  
+    transition: all .2s ease-in-out;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.new-tweet-bar {
+    background-color: #f5f8fa;
+    border-bottom: 1px solid #e6ecf0;
+    border-top: 1px solid #e6ecf0;
+    color: #1da1f2;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 1px;
+    text-align: center;
+    z-index: 2;
+}
+
+.tweeter-img {
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    padding: 2px;
+    vertical-align: middle;
+    background-size: cover;
+}
+
+.tweet-main {
+    background-color: #fff;
+    border-bottom: 1px solid #e6ecf0;
+}
+
+.twitter-peek {
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #e6ecf0;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.twitter-info {
+    background-color: #fff;
+    border: 1px solid #e6ecf0;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 20px;
+    margin-bottom: 10px;   
+}
+
+.twitter-follow {
+    background-color: #fff;
+    border: 1px solid #e6ecf0;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.dashboard {
+    border: 1px solid #e6ecf0;
+    background: #fff;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.dashboard-profile-card {
+    background-color: #1DA1F2 !important;
+    background-size: 100%;
+    height: 95px;
+    background-position: 0 50%;
+    width: 100%;
+    padding: 0;
+    margin-top: -1px;
+}
+
+.profile-avatar {
+    background-color: #fff;
+    border-radius: 50%;
+    margin: -30px 0 0 8px;
+    padding: 1px;
+    vertical-align: bottom;
+    display: inline-block!important;
+    max-width: 100%;
+}
+
+.avatar-image {
+    border-radius: 50%;
+    height: 72px;
+    width: 72px;
+    border: 2px solid #fff;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.dashboard-user-field {
+    position: absolute;
+    top: 103px;
+    left: 90px;
+    width: 185px;
+    display: block;
+}
+
+.dashboard-screen-name {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    margin: -1px 0 -2px 0;
+}
+
+.text-truncate {
+    max-width: 100%;
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    white-space: nowrap!important;
+    word-wrap: normal!important;
+}
+
+.screen-username {
+    font-size: 12px;
+    padding-right: 5px;
+    color: #66757f;
+    display: inline-block;
+    top: 15px;
+}
+
+.username {
+    font-size: 14px;
+    color: #657786;
+    padding-top: 5px;
+    direction: ltr!important;
+    text-align: left!important;
+    unicode-bidi: embed;
+}
+
+.trends {
+    border: 1px solid #e6ecf0;
+    background: #fff;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.trend-header {
+    position: relative;
+}
+
+.trends-name {
+    position: relative;
+    color: #657786;
+    font-size: 13px;
+}
